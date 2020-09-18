@@ -1,0 +1,4 @@
+.env
+__pycache__
+.vscode
+utility/__pycache__
